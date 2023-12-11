@@ -1,5 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Trung Hieu</h1>
+<h3 align="left">I do Web things</h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
@@ -43,7 +43,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="https://obsidian.md/images/2023-06-logo.png" width="48" height="48" alt="Obsidian" />
       </a>
       <br>Go
     </td>
