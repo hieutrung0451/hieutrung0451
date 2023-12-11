@@ -2,28 +2,17 @@
 <h3 align="left">I do Web things</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
+  <a href="https://github.com/hieutrung0451/hieutrung0451">
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
   </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://reddit.com/u/macropower">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
+
+  <a href="https://github.com/?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
 </p>
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=hieutrung0451&show_icons=true&theme=tokyonight" align='right'/>
 </a>
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
@@ -41,89 +30,40 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#macropower-tech">
-        <img src="https://obsidian.md/images/2023-06-logo.png" width="60" height="48" alt="Obsidian" />
+        <img src="./img/obsidian-icon.svg" width="48" height="48" alt="Obsidian" />
       </a>
       <br>Obsidian
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Docker
+      <br>ReactJS
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="48" height="48" alt="Debian" />
       </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+      <br>NodeJS
     </td>
   </tr>
 </table>
 
 <h2 align="left">Coding Activity</h2>
-
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-  1821.9 hr  ┤                                                                                    ╭────────────── 
-  1820.9 hr  ┤                                                                                  ╭─╯               
-  1820.0 hr  ┤                                                                                 ╭╯                 
-  1819.0 hr  ┤                                                                                ╭╯                  
-  1818.1 hr  ┤                                                                   ╭────────────╯                   
-  1817.2 hr  ┤                                                               ╭───╯                                
-  1816.2 hr  ┤                                                             ╭─╯                                    
-  1815.3 hr  ┤                                                  ╭─╮  ╭─────╯                                      
-  1814.3 hr  ┤                                                ╭─╯ ╰╮╭╯                                            
-  1813.4 hr  ┤                                  ╭─────────────╯    ╰╯                                             
-  1812.5 hr  ┤                                ╭─╯                                                                 
-  1811.5 hr  ┤                             ╭──╯                                                                   
-  1810.6 hr  ┼─────────────────────────────╯                                                                      
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+<p align="center"> 
+<img  width = "48%" src="https://github-readme-streak-stats.herokuapp.com?user=hieutrung0451&theme=tokyonight">
+</p>
