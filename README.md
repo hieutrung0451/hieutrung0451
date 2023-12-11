@@ -27,7 +27,7 @@
 
 - :office: &nbsp;I'm currently working at **[Vnext]**
 - :seedling: &nbsp;I’m currently working on my **[home]**
-- :speech_balloon: &nbsp;I like to talk about **Movie** and other **Literature**
+- :speech_balloon: &nbsp;I like to talk about **Movie** and **Literature**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -45,12 +45,6 @@
         <img src="./img/obsidian-icon.svg" width="48" height="48" alt="Obsidian" />
       </a>
       <br>Obsidian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -75,6 +69,12 @@
         <img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png" width="48" height="48" alt="Debian" />
       </a>
       <br>Neovim
+    </td>
+     <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://astro.build/assets/press/astro-icon-light-gradient.png" width="48" height="48" alt="Astro" />
+      </a>
+      <br>Astro
     </td>
   </tr>
 </table>
