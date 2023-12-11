@@ -70,6 +70,12 @@
       </a>
       <br>NodeJS
     </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Neovim
+    </td>
   </tr>
 </table>
 
