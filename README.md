@@ -25,9 +25,9 @@
 <img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=hieutrung0451&show_icons=true&theme=tokyonight" align='right'/>
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
+- :office: &nbsp;I'm currently working at **[Vnext]**
+- :seedling: &nbsp;I’m currently working on my **[home]**
+- :speech_balloon: &nbsp;I like to talk about **Movie** and other **Literature**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
