@@ -66,7 +66,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="48" height="48" alt="Debian" />
+        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="48" height="48" alt="Debian" />
       </a>
       <br>NodeJS
     </td>
