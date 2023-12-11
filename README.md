@@ -43,9 +43,9 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://obsidian.md/images/2023-06-logo.png" width="48" height="48" alt="Obsidian" />
+        <img src="https://obsidian.md/images/2023-06-logo.png" width="60" height="48" alt="Obsidian" />
       </a>
-      <br>Go
+      <br>Obsidian
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
