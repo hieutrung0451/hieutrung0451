@@ -87,6 +87,12 @@
       </a>
       <br>MongoDB
     </td>
+      <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-figma-2296071-1912030.png" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
   </tr>
 </table>
 
