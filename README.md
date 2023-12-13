@@ -75,6 +75,12 @@
       </a>
       <br>Bun
     </td>
+       <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
   </tr>
 </table>
 
