@@ -81,6 +81,12 @@
       </a>
       <br>Redux
     </td>
+       <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
   </tr>
 </table>
 
