@@ -17,7 +17,7 @@
   </a>
 
   <a href="https://github.com/?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hieutrung0451?color=green&logo=github">
   </a>
 </p>
 
