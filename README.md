@@ -69,6 +69,12 @@
       </a>
       <br>Neovim
     </td>
+      <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://bun.sh/logo.svg" width="48" height="48" alt="Bun" />
+      </a>
+      <br>Bun
+    </td>
   </tr>
 </table>
 
