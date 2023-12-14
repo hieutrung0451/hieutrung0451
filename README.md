@@ -83,7 +83,7 @@
     </td>
      <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://astro.build/assets/press/astro-icon-light-gradient.png" width="48" height="48" alt="Astro" />
+        <img src="https://astro.build/assets/press/astro-icon-light-gradient.png" width="36" height="48" alt="Astro" />
       </a>
       <br>Astro
     </td>
