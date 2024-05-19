@@ -13,12 +13,9 @@ Hello there! I'm Trung Hieu</h1>
 <img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=hieutrung0451&show_icons=true&theme=tokyonight" align='right'/>
 </a>
 
-- :seedling: &nbsp;I’m currently working at **[home]**
+- :seedling: &nbsp;I’m currently working at **home**
 - :speech_balloon: &nbsp;I like to talk about **Movie** and **Literature**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-
+- :book: &nbsp;Learn more about my projects on my **blog**
 <br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
