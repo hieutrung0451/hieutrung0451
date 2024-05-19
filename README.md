@@ -1,4 +1,4 @@
-Hello there! I'm Trung Hieu</h1>
+![image](https://github.com/hieutrung0451/hieutrung0451/assets/91949315/b9972fde-947c-4fec-a5a0-0a0a84f9478f)Hello there! I'm Trung Hieu</h1>
 <p align="left">
   <a href="https://github.com/hieutrung0451/hieutrung0451">
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
@@ -41,7 +41,7 @@ Hello there! I'm Trung Hieu</h1>
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="48" height="48" alt="NextJS" />
+        <img src="https://asset.brandfetch.io/id2alue-rx/iduLChSb1a.jpeg" width="48" height="48" alt="NextJS" />
       </a>
       <br>NextJS
     </td>
