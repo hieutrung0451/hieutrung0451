@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Trung Hieu</h1>
+![image](https://github.com/hieutrung0451/hieutrung0451/assets/91949315/2711c3d9-8899-4cb5-826b-03341c8133d9)<h1 align="left" id="macropower-title">:wave: Hello there! I'm Trung Hieu</h1>
 <p align="left">
   <a href="https://github.com/hieutrung0451/hieutrung0451">
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
@@ -45,11 +45,11 @@
       </a>
       <br>ReactJS
     </td>
-    <td align="center"  width="96">
+       <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="48" height="48" alt="Debian" />
+        <img src="https://static-00.iconduck.com/assets.00/vue-icon-2048x1766-ntogpmti.png" width="48" height="48" alt="Redux" />
       </a>
-      <br>NodeJS
+      <br>VueJS
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -62,18 +62,6 @@
         <img src="https://bun.sh/logo.svg" width="48" height="48" alt="Bun" />
       </a>
       <br>Bun
-    </td>
-       <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-       <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
     </td>
   </tr>
 </table>
