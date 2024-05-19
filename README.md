@@ -47,9 +47,9 @@ Hello there! I'm Trung Hieu</h1>
     </td>
        <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://static-00.iconduck.com/assets.00/vue-icon-2048x1766-ntogpmti.png" width="48" height="48" alt="Redux" />
+        <img src="https://styles.redditmedia.com/t5_3k2ni/styles/communityIcon_027fvc5mclmb1.png" width="48" height="48" alt="Redux" />
       </a>
-      <br>VueJS
+      <br>NuxtJS
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
