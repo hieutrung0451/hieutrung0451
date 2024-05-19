@@ -1,4 +1,4 @@
-![image](https://github.com/hieutrung0451/hieutrung0451/assets/91949315/75430897-fa3b-4975-949c-d8b9d54fe7d0)![image](https://github.com/hieutrung0451/hieutrung0451/assets/91949315/39952ffb-9446-47ed-a811-a49a96f36704)Hello there! I'm Trung Hieu</h1>
+Hello there! I'm Trung Hieu</h1>
 <p align="left">
   <a href="https://github.com/hieutrung0451/hieutrung0451">
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
