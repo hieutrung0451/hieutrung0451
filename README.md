@@ -1,4 +1,4 @@
-Hello there! I'm Trung Hieu</h1>
+![image](https://github.com/hieutrung0451/hieutrung0451/assets/91949315/75430897-fa3b-4975-949c-d8b9d54fe7d0)![image](https://github.com/hieutrung0451/hieutrung0451/assets/91949315/39952ffb-9446-47ed-a811-a49a96f36704)Hello there! I'm Trung Hieu</h1>
 <p align="left">
   <a href="https://github.com/hieutrung0451/hieutrung0451">
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
@@ -62,6 +62,12 @@ Hello there! I'm Trung Hieu</h1>
         <img src="https://bun.sh/logo.svg" width="48" height="48" alt="Bun" />
       </a>
       <br>Bun
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="48" height="48" alt="shadcn/ui" />
+      </a>
+      <br>shadcn/ui
     </td>
   </tr>
 </table>
