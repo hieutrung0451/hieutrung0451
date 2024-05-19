@@ -41,19 +41,19 @@ Hello there! I'm Trung Hieu</h1>
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" width="48" height="48" alt="Docker" />
+        <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" width="48" height="48" alt="NextJS" />
       </a>
-      <br>ReactJS
+      <br>NextJS
     </td>
        <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://styles.redditmedia.com/t5_3k2ni/styles/communityIcon_027fvc5mclmb1.png" width="48" height="48" alt="Redux" />
+        <img src="https://styles.redditmedia.com/t5_3k2ni/styles/communityIcon_027fvc5mclmb1.png" width="48" height="48" alt="Nuxt" />
       </a>
       <br>NuxtJS
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png" width="48" height="48" alt="Debian" />
+        <img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png" width="48" height="48" alt="Neovim" />
       </a>
       <br>Neovim
     </td>
