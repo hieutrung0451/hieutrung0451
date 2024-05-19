@@ -1,3 +1,14 @@
+Hello there! I'm Trung Hieu</h1>
+<p align="left">
+  <a href="https://github.com/hieutrung0451/hieutrung0451">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  </a>
+
+  <a href="https://github.com/?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hieutrung0451?color=green&logo=github">
+  </a>
+</p>
+
 <a href="#macropower-title">
 <img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=hieutrung0451&show_icons=true&theme=tokyonight" align='right'/>
 </a>
