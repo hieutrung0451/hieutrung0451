@@ -41,7 +41,7 @@ Hello there! I'm Trung Hieu</h1>
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" width="48" height="48" alt="NextJS" />
+        <img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" width="48" height="48" alt="NextJS" />
       </a>
       <br>NextJS
     </td>
