@@ -1,4 +1,4 @@
-![image](https://github.com/hieutrung0451/hieutrung0451/assets/91949315/2711c3d9-8899-4cb5-826b-03341c8133d9)<h1 align="left" id="macropower-title">:wave: Hello there! I'm Trung Hieu</h1>
+Hello there! I'm Trung Hieu</h1>
 <p align="left">
   <a href="https://github.com/hieutrung0451/hieutrung0451">
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
